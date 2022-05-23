@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "TokenTransferrer: to is unchecked in _performERC721Transfer(), which can cause user's NFT to be frozen",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/19"
+}
