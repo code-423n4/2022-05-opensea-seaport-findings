@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "Yarpo",
+  "address": "0xB070cb2388c959BAe8C5dfE35D48921174166605",
+  "risk": "2",
+  "title": "Order Overflow",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/26"
+}
