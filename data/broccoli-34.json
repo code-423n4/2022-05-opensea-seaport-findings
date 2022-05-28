@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "broccoli",
+  "address": "0xABb99042FAE2C86b8437585467a24a71b17d23bA",
+  "risk": "3",
+  "title": "Casting overflow when updating the status of partially fulfilled orders",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/34"
+}
