@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "Non standard token transfers will fail in the protocol ",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/45"
+}
