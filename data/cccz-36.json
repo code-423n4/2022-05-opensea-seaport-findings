@@ -1,9 +1,0 @@
-{
-  "contest": 128,
-  "handle": "cccz",
-  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
-  "risk": "2",
-  "title": "OrderValidator: The _cancel function does not validate the order status, the order will be cancelled even if the order does not exist.",
-  "issueId": 36,
-  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/36"
-}
