@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "Spearbit",
+  "address": "to be decided",
+  "risk": "3",
+  "title": "Truncation in `OrderValidator` can lead to resetting the fill and selling more tokens",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/77"
+}
