@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "foobar",
+  "address": "0xe5ee2B9d5320f2D1492e16567F36b578372B3d9F",
+  "risk": "3",
+  "title": "Does not set the offerer as the recipient if execution amount is nonzero",
+  "issueId": 207,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/207"
+}
