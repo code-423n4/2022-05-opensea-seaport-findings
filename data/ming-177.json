@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "ming",
+  "address": "0x0060E19bdc06cC673cD84eb5628C25eAB4AD9A2F",
+  "risk": "3",
+  "title": "[WP-H1] `OrderFulfiller.sol#_applyFractionsAndTransferEach()` Orders with `offerItem.itemType == ItemType.NATIVE` are not processed properly",
+  "issueId": 177,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/177"
+}
