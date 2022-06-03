@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "Treasure-Seeker",
+  "address": "0xDc8Eb8d2D1babD956136b57B0B9F49b433c019e3",
+  "risk": "2",
+  "title": "Integer Overflow in Nonce Possible Via EIP 1271 Compliant Contract",
+  "issueId": 133,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/133"
+}
