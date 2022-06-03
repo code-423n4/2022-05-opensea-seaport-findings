@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833D7Dee997d7D347e2634C9CEF",
+  "risk": "2",
+  "title": "EIP-1271 Signature may contains 64 or 65 bytes but isn't EIP-2098 signature. But it may be reverted if it isn't EIP-2098 signature.",
+  "issueId": 151,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/151"
+}
