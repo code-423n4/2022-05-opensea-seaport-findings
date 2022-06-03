@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "frangio",
+  "address": "0x31cf531a357c1eDA86Bb8aA09cBa14dcE20f2F29",
+  "risk": "2",
+  "title": "Buyer can take from a seller an item they had not offered",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/94"
+}
