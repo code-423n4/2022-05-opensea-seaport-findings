@@ -1,0 +1,9 @@
+{
+  "contest": 128,
+  "handle": "Spearbit",
+  "address": "to be decided",
+  "risk": "2",
+  "title": "`_performERC1155BatchTransfers` passes through truncated input as complete",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues/195"
+}
