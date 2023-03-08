@@ -1,3 +1,11 @@
+---
+sponsor: "OpenSea"
+slug: "2022-05-opensea-seaport"
+date: "2022-08-30"
+title: "OpenSea Seaport contest"
+findings: "https://github.com/code-423n4/2022-05-opensea-seaport-findings/issues"
+contest: 128
+---
 
 # Overview
 
